@@ -1,0 +1,10 @@
+vcon
+fastapi
+uvicorn
+pydantic
+httpx
+pypdf
+Pillow
+sqlalchemy
+python-dotenv
+psycopg2-binary
