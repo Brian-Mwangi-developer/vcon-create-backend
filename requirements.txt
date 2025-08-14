@@ -8,3 +8,4 @@ Pillow
 sqlalchemy
 python-dotenv
 psycopg2-binary
+'pydantic[email]'
